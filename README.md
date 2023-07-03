@@ -1,2 +1,2 @@
 # Practica
- Practica de esposición 
+ Practica de exposición 
